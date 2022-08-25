@@ -11,4 +11,4 @@ And the community is SO awesome. Man, if I knew that the development world was l
 
 At the moment I´m end-to-end studying React, and getting better at vanilla javascript as well. Other technologies I currently know are HTML, CSS and Python. I know a few libraries too, like grommet, styled-components, Material UI and so on.
 
-It was nice to meet you!! See you at my repositores ( or at yours ! )
+It was nice meeting you!! See you at my repositores ( or at yours ! )
