@@ -1,14 +1,14 @@
-# Ye-loo!
+# Hi!👋
 
-### How are you?
-### I´m fine too, thanks!
+## How are you?
+### I'm fine too, thanks!
 
-My name is Lucas, I´m 26 years old, and i started my coding life a few years ago.
+My name is Lucas, I'm 28 years old, and I started my coding journey a few years ago.
 
-I honestly fell in love with web development! I just have the Front-end knowledge yet, but I´m enjoyin a lot! Just by thinking about all the possibilities that I can at least try to turn into reality, It keeps me hyped 98% of my day ( the others 2% it´s when I´m solving bugs ).
+I honestly fell in love with web development! I currently have a 2 years experience as a fullstack developer, and I'm enjoying it a lot. Just thinking about all the possibilities that I can try to turn into reality keeps me excited 98% of the day (the other 2% is when I'm solving bugs).
 
-And the community is SO awesome. Man, if I knew that the development world was like that years ago, I would start coding waaay before. But anyway, That´s enough for my brief story :) 
+And let me tell you, the developer community is amazing. If I had known that the development world was like this years ago, I would have started coding much earlier. But anyway, that's enough about my brief story. :)
 
-At the moment I´m end-to-end studying React, and getting better at vanilla javascript as well. Other technologies I currently know are HTML, CSS and Python. I know a few libraries too, like grommet, styled-components, Material UI and so on.
+You`re welcome to check my repositories, even the forgotten ones 😅
 
-It was nice meeting you!! See you at my repositores ( or at yours ! )
+Nice meeting you!
