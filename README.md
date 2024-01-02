@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-psi-three.vercel.app/](https://my-portfolio-psi-three.vercel.app/)
 
-- 💬 Ask me about **React, Typescript, anything really 😄 **
+- 💬 Ask me about **React, Typescript, anything really 😄**
 
 - 📫 How to reach me **lucasfsilva2310@gmail.com**
 
