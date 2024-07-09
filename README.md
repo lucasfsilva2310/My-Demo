@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasfsilva2310&label=Profile%20views&color=0e75b6&style=flat" alt="lucasfsilva2310" /> </p>
 
 
-- 🌱 I’m currently learning **NextJS, Typescript, Python, Strapi, SOLID**
+- 🌱 I’m currently learning **NextJS, Typescript, Python, Java and Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-psi-three.vercel.app/](https://my-portfolio-psi-three.vercel.app/)
 
