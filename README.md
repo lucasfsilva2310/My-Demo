@@ -5,8 +5,6 @@
 
 - 🌱 Always learning. Currently on  <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="80" height="40"/> and  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="80" height="40"/>
 
-- 🌱 I’m currently learning **NextJS, Typescript, Python, Java and Spring Boot**
-
 - 💬 Ask me about **React, Typescript, anything really 😄**
 
 - 📫 How to reach me **lucasfsilva2310@gmail.com**
