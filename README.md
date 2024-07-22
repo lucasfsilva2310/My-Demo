@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A well aware  full stack developer from Brazil</h3>
+<h3 align="center">A well aware  full stack developer from Brazil😄</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasfsilva2310&label=Profile%20views&color=0e75b6&style=flat" alt="lucasfsilva2310" /> </p>
 
-- 🌱 Always learning. Currently on  <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="80" height="40"/> and  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="80" height="40"/>
-
-- 💬 Ask me about **React, Typescript, anything really 😄**
+- 💬🌱 Always learning. Currently on  <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="80" height="40"/> and  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="80" height="40"/>
 
 - 📫 How to reach me **lucasfsilva2310@gmail.com**
 
