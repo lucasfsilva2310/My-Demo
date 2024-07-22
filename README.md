@@ -17,9 +17,9 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lucasfsilva2310" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/lucasfsilva2310/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucasfsilva2310/" height="30" width="40" />        </a>
+      <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/lucasfsilva2310/" height="50" width="50" />        </a>
     <a href="https://instagram.com/lucasfsilva2310" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasfsilva2310" height="30" width="40" />
+      <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="lucasfsilva2310" height="50" width="50" />
     </a>
     <a href="https://www.leetcode.com/lucasfsilva2310" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lucasfsilva2310" height="30" width="40" />
@@ -32,10 +32,10 @@
           <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="80" height="40"/> 
         </a> 
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+          <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="40" height="40"/>
         </a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python" width="90" height="40"/> 
+          <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="40" height="40"/> 
         </a>
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
@@ -44,7 +44,7 @@
           <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="90" height="40"/> 
         </a>
         <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+          <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="nodejs" width="40" height="40"/> 
         </a> 
     </p>
     <h3 align="left">Frameworks:</h3>
