@@ -27,7 +27,7 @@
   <h3 align="left">Languages:</h3>
     <p align="left">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="80" height="40"/> 
+          <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5-thumbnail.png" alt="html5" width="40" height="40"/> 
         </a> 
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
           <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="40" height="40"/>
@@ -48,16 +48,16 @@
     <h3 align="left">Frameworks:</h3>
     <p align="left">
       <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+        <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express" width="40" height="40"/> 
       </a>
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+        <img src="https://static.javatpoint.com/tutorial/flask/images/flask-tutorial.png" alt="flask" width="40" height="40"/> 
       </a>
       <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="nestjs" width="80" height="40"/> 
       </a> 
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7gmv65nxUV9rPmaJRuu4GL77Czoqvh9Qv0g&s" alt="nextjs" width="40" height="40"/> 
       </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
