@@ -19,9 +19,6 @@
     </a>
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/lucasfsilva2310/" target="blank">
       <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/lucasfsilva2310/" height="50" width="50" />        </a>
-    <a href="https://instagram.com/lucasfsilva2310" target="blank">
-      <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="lucasfsilva2310" height="50" width="50" />
-    </a>
     <a href="https://www.leetcode.com/lucasfsilva2310" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lucasfsilva2310" height="30" width="40" />
     </a>
