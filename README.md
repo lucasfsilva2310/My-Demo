@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a href="https://dev.to/lucasfsilva2310" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lucasfsilva2310" height="30" width="40" />
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lucasfsilva2310" height="35" width="40" />
     </a>
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/lucasfsilva2310/" target="blank">
       <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/lucasfsilva2310/" height="50" width="50" />        </a>
