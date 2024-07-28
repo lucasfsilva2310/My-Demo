@@ -129,8 +129,8 @@
   </p>
 
 
-<p><img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasfsilva2310&show_icons=true&locale=en&layout=donut&theme=transparent" alt="lucasfsilva2310" /></p>
+<p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasfsilva2310&show_icons=true&locale=en&layout=donut&theme=transparent" alt="lucasfsilva2310" /></p>
 
-<p>&nbsp;<img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=lucasfsilva2310&show_icons=true&locale=en&theme=transparent" alt="lucasfsilva2310" /></p>
+<p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasfsilva2310&show_icons=true&locale=en&theme=transparent" alt="lucasfsilva2310" /></p>
 
 <!-- Trophies <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasfsilva2310" alt="lucasfsilva2310" /></a> </p>
