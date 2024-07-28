@@ -5,6 +5,7 @@
     <li>Making my life easier</li>
     <li>When I really believe what I´m doing is going to help others</li>
   </ul>
+  
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasfsilva2310&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="lucasfsilva2310" /> </p>
@@ -27,6 +28,8 @@
 
 </p>
 
+<hr>
+
   <h3 align="left">Languages:</h3>
     <p align="left">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -47,7 +50,7 @@
         <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
           <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="nodejs" width="40" height="40"/> 
         </a> 
-    </p>
+    </p> 
     <h3 align="left">Frameworks:</h3>
     <p align="left">
       <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
@@ -128,9 +131,10 @@
   
   </p>
 
+<hr>
 
-<p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasfsilva2310&show_icons=true&locale=en&layout=donut&theme=transparent" alt="lucasfsilva2310" /></p>
+<p><img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasfsilva2310&show_icons=true&locale=en&layout=donut&theme=transparent" alt="lucasfsilva2310" /></p>
 
-<p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasfsilva2310&show_icons=true&locale=en&theme=transparent" alt="lucasfsilva2310" /></p>
+<p><img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=lucasfsilva2310&show_icons=true&locale=en&theme=transparent" alt="lucasfsilva2310" /></p>
 
 <!-- Trophies <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasfsilva2310" alt="lucasfsilva2310" /></a> </p>
