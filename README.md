@@ -1,8 +1,13 @@
-<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="lucasfsilva2310" height="350" width="2000" />
-<h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A well aware  full stack developer from Brazil😄</h3>
+<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="lucasfsilva2310" height="400" width="2000" />
+<h1 align="center">Hey 👋</h1>
+<p align="center">I´m a passionate developer when it comes to two things: </p>
+  <ul>
+    <li>Making my life easier</li>
+    <li>When I really believe what I´m doing is going to help others</li>
+  </ul>
+<hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasfsilva2310&label=Profile%20views&color=0e75b6&style=flat" alt="lucasfsilva2310" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasfsilva2310&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="lucasfsilva2310" /> </p>
 
 - 💬🌱 Always learning. Currently on  <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="80" height="40"/> and  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="80" height="40"/>
 
@@ -86,7 +91,7 @@
   </a>
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="figma" width="90" height="40"/> 
+  <img src="https://seeklogo.com/images/F/figma-logo-3C82F1B96E-seeklogo.com.png" alt="figma" width="90" height="25"/> 
   </a> 
   
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
@@ -124,8 +129,8 @@
   </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasfsilva2310&show_icons=true&locale=en&layout=compact" alt="lucasfsilva2310" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasfsilva2310&show_icons=true&locale=en&layout=compact&theme=transparent" alt="lucasfsilva2310" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasfsilva2310&show_icons=true&locale=en" alt="lucasfsilva2310" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasfsilva2310&show_icons=true&locale=en&theme=transparent" alt="lucasfsilva2310" /></p>
 
 <!-- Trophies <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasfsilva2310" alt="lucasfsilva2310" /></a> </p>
